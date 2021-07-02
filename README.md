@@ -71,7 +71,7 @@ labs.
     problems!
   - **Chatterbox** here for you if you like Scrimba and want a code
     challenge-style Scrimba exercise:
-    [https://scrimba.com/playlist/prxdvSy][ (Links to an external site.)]
+    [https://scrimba.com/playlist/prxdvSy](https://scrimba.com/playlist/prxdvSy)
 
 ## Week 7
 
