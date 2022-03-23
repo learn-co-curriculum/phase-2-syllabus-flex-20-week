@@ -61,9 +61,11 @@ labs.
   - **Sushi Saga**: good practice working with arrays and state, and sharing
     data between components. On the more challenging side, but has some fun new
     problems!
-  - **Toy Tales**: good practice a form and doing full CRUD with a `json-server` API
+  - **Toy Tales**: good practice with a form and doing full CRUD with a
+   `json-server` API
   - **Pokemon Searcher**: good practice with a form and a search filter
-  - ⭐️ **Flatiron Stock Exchange**: good practice with filter, sort, and reusable components
+  - ⭐️ **Flatiron Stock Exchange**: good practice with filter, sort, and
+    reusable components
   - **Chatterbox** here for you if you like Scrimba and want a code
     challenge-style Scrimba exercise:
     [https://scrimba.com/playlist/prxdvSy](https://scrimba.com/playlist/prxdvSy)
